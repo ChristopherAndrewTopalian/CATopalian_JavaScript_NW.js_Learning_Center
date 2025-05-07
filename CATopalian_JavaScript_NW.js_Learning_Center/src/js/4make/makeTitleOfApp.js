@@ -4,7 +4,7 @@ function makeTitleOfApp()
 {
     let theTitle = ce('a');
     theTitle.id = 'theTitle';
-    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Hub';
+    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Learning_Center';
     theTitle.target = '_blank';
     theTitle.textContent = 'CATopalian JavaScript NW.js Learning Center';
     theTitle.style.position = 'absolute';
