@@ -23,7 +23,7 @@ Full Instructions on Running our app here: https://github.com/ChristopherAndrewT
 2. Choose Download ZIP
 3. Save the Zip File
 4. Extract All
-5. Double click the HTML file to start the App
+5. Drag the folder named CATopalian_JavaScript_NW.js_Learning_Center onto the nw.exe icon 
 
 ---
 
