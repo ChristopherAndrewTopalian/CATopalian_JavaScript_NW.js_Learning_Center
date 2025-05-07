@@ -22,7 +22,7 @@ function makeInterface()
     //-//
 
     let openText001Button = ce('button');
-    openText001Button.textContent = 'Open Text001.txt';
+    openText001Button.textContent = 'Open text001.txt';
     openText001Button.style.alignSelf = 'flex-start'; // no stretch
     openText001Button.onmouseover = function()
     {

@@ -1,1 +1,3 @@
-howdy
+Hi Everyone.
+This is our text file.
+This makes editing very easy.
