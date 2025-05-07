@@ -8,6 +8,10 @@ REQUIREMENTS:
 
 ---
 
+![screenshot_001](src/media/textures/screenshots/001.PNG)
+
+---
+
 To run this application we:
 * Download NW.js
 * Extract All
