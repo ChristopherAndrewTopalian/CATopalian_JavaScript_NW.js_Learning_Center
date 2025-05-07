@@ -8,7 +8,7 @@ REQUIREMENTS:
 
 ---
 
-![screenshot_001](src/media/textures/screenshots/001.PNG)
+![screenshot_001](CATopalian_JavaScript_NW.js_Learning_Center/src/media/textures/screenshots/001.PNG)
 
 ---
 
