@@ -2,7 +2,7 @@
 A JavaScript NW.js Node.js application that allows us to make a desktop application using HTML, CSS, JS, and Node.js, that opens files in their native applications for easy editing.
 
 REQUIREMENTS:
-* Node.js
+* Node.js https://nodejs.org/en
 
 * NW.js https://nwjs.io/  
 
