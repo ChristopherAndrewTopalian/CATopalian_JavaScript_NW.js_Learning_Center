@@ -1,16 +1,19 @@
-// openInDefaultApp.js
+// openInFileExplorer.js
 
 //const { exec } = require('child_process');
 //const path = require('path');
 
-function openInDefaultApp(whichFolder, whichFile)
+function openInFileExplorer(whichFolder, whichFile)
 {
     let basePath = process.cwd();
 
     let filePath = path.join(basePath, 'src', 'media', whichFolder, whichFile);
 
-    exec('start "" "' + filePath + '"');
+    exec('explorer.exe /select,"' + filePath + '"');
 }
+
+// module.exports = openInFileExplorer;
+
 
 //----//
 

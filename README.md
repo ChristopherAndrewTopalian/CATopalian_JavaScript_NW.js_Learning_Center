@@ -1,5 +1,5 @@
 # CATopalian JavaScript NW.js Learning Center
-A JavaScript NW.js Node.js application that allows us to make a desktop application using HTML, CSS, JS, and Node.js, that opens files in their native applications for easy editing.
+A JavaScript NW.js Node.js application that allows us to make a desktop application using HTML, CSS, JS, and Node.js, that opens files in their native applications or shows them in File Explorer on Windows for easy editing.
 
 REQUIREMENTS:
 * Node.js https://nodejs.org/en
